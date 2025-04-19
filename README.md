@@ -12,7 +12,7 @@
   ## 👀 About Me
   #### :raising_hand: I am an AI Engineer from South Korea.<br/>
   #### :fire: I aim to I aim to become a full-stack AI developer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :mortar_board: Bachelor of Science in Applied Software and Communications Engineering from Hongik University (HU)
   <br/>
   <br/>
   
