@@ -17,7 +17,7 @@
   #### :computer: SK Network Family AI – NLP & LLM Bootcamp (NLP(LLM emphasis) focus) [25.3 ~ 25.8]
   #### :computer: KT Able AI Cloud – Participated in AI Cloud Development Bootcamp (withdrew before completion) [25.3]
   #### :microscope: Undergraduate Researcher at the AIS Lab, Department of Computer Engineering, Hongik University [23.9 ~ 24.12]
-  #### :mortar_board: Bachelor of Science in Applied Software and Communications Engineering from Hongik University (Hongik Univ.)
+  #### :mortar_board: Bachelor of Science in Applied Software and Communications Engineering from Hongik University (Hongik Univ.) [23.3 ~ 25.2]
   <br/>
   <br/>
   
