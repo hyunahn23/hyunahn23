@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Jonghyun Ahn, and I'm an AI developer 😊
+## Hi there 👋 My name is Jonghyun Ahn, and I am an AI Engineer from South Korea 😊
 <div>
   
   <!--Header-->
@@ -10,8 +10,6 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am an AI Engineer from South Korea.<br/>
-  #### :fire: I aim to become a full-stack AI developer.<br/>
   #### :mortar_board: M.S. in Computer Science (expected), School of Software, Chung-Ang University (CAU) [26.2 ~]
   #### :microscope: Expected Undergraduate Research Intern at the AIS Lab, School of Software, Chung-Ang University [25.8 ~ 26.1]
   #### :computer: SK Network Family AI – NLP & LLM Bootcamp (NLP(LLM emphasis) focus) [25.3 ~ 25.8]
