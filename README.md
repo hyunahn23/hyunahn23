@@ -11,7 +11,7 @@
   
   ## 👀 About Me
   #### :mortar_board: M.S. in Computer Science (expected), School of Software, Chung-Ang University (CAU) [26.2 ~]
-  #### :microscope: Undergraduate Research Intern at the AIS Lab, School of Software, Chung-Ang University [25.8 ~ 26.1]
+  #### :microscope: Undergraduate Research Intern at the AIS Lab, School of Software, Chung-Ang University (CAU) [25.8 ~ 26.1]
   #### :computer: SK Network Family AI – NLP & LLM Bootcamp (NLP(LLM emphasis) focus) [25.3 ~ 25.8]
   #### :computer: KT Able AI Cloud – Participated in AI Cloud Development Bootcamp (withdrew before completion) [25.3]
   #### :microscope: Undergraduate Researcher at the AIS Lab, Department of Computer Engineering, Hongik University (HU) [23.9 ~ 24.12]
