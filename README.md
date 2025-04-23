@@ -47,7 +47,7 @@
 
   ### Operating System
    <!--Linux-->
-  <img src="https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
   
   ## 🤔 Github Stats
