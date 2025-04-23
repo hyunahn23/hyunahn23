@@ -52,6 +52,8 @@
   ### Framework
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <!--LangChain-->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/>
 
   ### Operating System
    <!--Linux-->
