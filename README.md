@@ -62,6 +62,8 @@
   
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Jonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghyun_Ahn&show_icons=true&theme=tokyonight)
   
 </div>
 
