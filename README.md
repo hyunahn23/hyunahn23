@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <!--OpenCV-->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+  <!--Scikit-learn-->
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white"/>
   <br/>
   
   ### Framework
