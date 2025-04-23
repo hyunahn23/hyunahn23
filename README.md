@@ -65,5 +65,9 @@
   ## 🤔 Github Stats
  ![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn23&layout=compact&theme=white)
+ <p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn23&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
   
 </div>
