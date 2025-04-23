@@ -39,6 +39,12 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--TensorFlow-->
   <img src="https://img.shields.io/badge/TensorFlow-43B02A?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <!--NumPy-->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
+  <!--pandas-->
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <!--OpenCV-->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <br/>
   
   ### Framework
@@ -54,18 +60,3 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-<!--
-** hyunahn23/hyunahn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
