@@ -65,8 +65,6 @@
   ## 🤔 Github Stats
  ![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&include_all_commits=true&count_private=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn23&langs_count=5&layout=compact&theme=white)
- ![Contributors](https://contrib.rocks/image?repo=hyunahn23/your-repo-name)
-![Metrics](https://raw.githubusercontent.com/hyunahn23/hyunahn23/master/github-metrics.svg)
 
   
 </div>
