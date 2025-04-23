@@ -63,6 +63,6 @@
 
   
   ## 🤔 Github Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&theme=dracula)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunahn23)
   
 </div>
