@@ -60,6 +60,8 @@
   ### DBMS
    <!--MySQL-->
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  
+</div>
   <br/>
   
   ## 🤔 Github Stats
