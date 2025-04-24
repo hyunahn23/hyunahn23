@@ -74,8 +74,13 @@
 
 ## 🤔 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn23&layout=compact)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&theme=transparent" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn23&layout=compact" /></td>
+  </tr>
+</table>
+
 
 ---
 
