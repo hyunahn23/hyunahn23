@@ -3,7 +3,6 @@
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-
   - 기술은 결국 사람에게 다가가기 위한 수단이라고 생각합니다.
   - 제 코드는 단순히 작동하는 것을 넘어서, 이해하기 쉬운 흐름과 구조를 갖추는 것을 목표로 합니다.
   - 함께 일하는 사람, 나중에 볼 나 자신에게도 의도를 명확히 전달하는 코드를 쓰기 위해 노력합니다.
