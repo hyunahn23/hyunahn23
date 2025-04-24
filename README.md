@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Jonghyun Ahn, and I am an AI Engineer from South Korea 😊
+##  🌱 AI 개발자 인종현 입니다!
 <div>
   
   <!--Header-->
