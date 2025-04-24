@@ -28,7 +28,9 @@
   <br/>
 
   ### 📚 Publications
-  - A New Wave of Texture Feature: Enhancing Deepfake Detection via Image Waveform
+- A New Wave of Texture Feature: Enhancing Deepfake Detection via Image Waveform[🔗paper]([https://www.hongik.ac.kr/kr/newscenter/news.do?mode=view&articleNo=128180](https://ieeexplore.ieee.org/document/10827484))
+  <br/>
+
   
   <br/>
   <br/>
