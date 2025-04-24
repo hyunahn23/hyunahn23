@@ -8,7 +8,7 @@
   - 제 코드는 단순히 작동하는 것을 넘어서, 이해하기 쉬운 흐름과 구조를 갖추는 것을 목표로 합니다.
   - 함께 일하는 사람, 나중에 볼 나 자신에게도 의도를 명확히 전달하는 코드를 쓰기 위해 노력합니다.
   - AI라는 거대한 흐름 속에서 복잡한 개념을 누구나 이해할 수 있도록 풀어내고, 그것을 코드로 명확하게 표현하는 데서 큰 보람을 느낍니다.
-     <br/>
+    <br/>
   - I think technology is a tool to help people.
   - My goal is to write code that is easy to understand and well-organized.
   - I always try to clearly express my ideas through code—not just for my teammates, but also for myself when I revisit it later.
