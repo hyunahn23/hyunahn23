@@ -63,9 +63,8 @@
 
   
   ## 🤔 Github Stats
- ![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&include_all_commits=true&count_private=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&theme=transparent)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn23&langs_count=5&layout=compact&theme=white)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunahn23&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
   
 </div>
