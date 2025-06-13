@@ -12,9 +12,8 @@
 ## 👀 About Me
 
 #### 🎓 M.S. in Computer Science (expected), School of Software, Chung-Ang University (CAU) [26.2 ~]  
-#### 🔬 Undergraduate Research Intern at the AIS Lab, CAU [25.8 ~ 26.1]  
-#### 💻 SK Network Family AI – NLP & LLM Bootcamp [25.2 ~ 25.8]  
-#### 💻 KT Able AI Cloud – Participated in AI Cloud Bootcamp (withdrew) [25.2]  
+#### 🔬 Undergraduate Research Intern at the AIS Lab, CAU [25.8 ~ 26.1]    
+#### 💻 KT Able AI – Participated in AI Bootcamp (withdrew) [25.2]  
 #### 🔬 Undergraduate Researcher at the AIS Lab, Dept. of Computer Engineering, Hongik University [24.1 ~ 24.12]  
 #### 🎓 B.S. in Applied Software and Communications Engineering, Hongik University [23.3 ~ 24.12]
 
