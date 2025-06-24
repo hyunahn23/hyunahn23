@@ -21,7 +21,7 @@
 
 ### 🏆 Awards & Patents
 
-- [Award] 2024.10.23 [2024 ICTC Best AI Paper (IEEE, KICS, ICTC 2024)](https://www.hongik.ac.kr/kr/newscenter/news.do?mode=view&articleNo=128180)
+- [Award] 2024.10.23 [2024 ICTC Best AI Paper (IEEE, KICS, ICTC 2024)](https://www.hongik.ac.kr/kr/newscenter/news.do?mode=view&articleNo=128180)  🔗 [GitHub Repository](https://github.com/hyunahn23/ImageWaveform-based-Deepfake-Detection)
 - [Patent] 2024.12.24 [영상, 이미지 데이터를 활용한 인공지능 기반 침수 위험 수준 탐지 기술](https://github.com/hyunahn23/Flooding)
 
 ---
