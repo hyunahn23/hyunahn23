@@ -60,8 +60,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&theme=transparent&cache_seconds=1818" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn23&layout=compact&cache_seconds=1818" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hyunahn23&show_icons=true&theme=transparent&cache_seconds=1820" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn23&layout=compact&cache_seconds=1820" /></td>
   </tr>
 </table>
 
