@@ -1,4 +1,4 @@
-## 🌱 AI 개발자 안종현 입니다!
+## Hi, my name is Jonghyun Ahn, an AI developer!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
@@ -10,7 +10,7 @@
 ---
 
 ## 👀 About Me
-#### 🔬 Undergraduate Research Intern at the AIS Lab, Chung-Ang University [25.8]    
+#### 🔬 Undergraduate Research Intern at the AIS Lab, ChungAng University [25.8]    
 #### 💻 KT Able AI – Participated in AI Bootcamp [25.3]  
 #### 🔬 Undergraduate Researcher at the AIS Lab, Dept. of Computer Engineering, Hongik University [24.1 ~ 24.12]  
 #### 🎓 B.S. in Applied Software and Communications Engineering, Hongik University [23.3 ~ 24.12]
