@@ -10,7 +10,7 @@
 ---
 
 ## 👀 About Me
-
+#### 🔬 Undergraduate Research Intern at the AIS Lab, CAU [25.8]    
 #### 💻 KT Able AI – Participated in AI Bootcamp [25.2]  
 #### 🔬 Undergraduate Researcher at the AIS Lab, Dept. of Computer Engineering, Hongik University [24.1 ~ 24.12]  
 #### 🎓 B.S. in Applied Software and Communications Engineering, Hongik University [23.3 ~ 24.12]
