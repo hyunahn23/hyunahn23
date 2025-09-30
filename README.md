@@ -10,6 +10,7 @@
 ---
 
 ## 👀 About Me
+#### 🎓 M.S. in Electronic Engineering, Hanyang University [Currently Enrolled]
 #### 💻 KT Able AI – Participated in AI Bootcamp [25.3]  
 #### 🔬 Undergraduate Researcher at the AIS Lab, Dept. of Computer Engineering, Hongik University [24.1 ~ 24.12]  
 #### 🎓 B.S. in Applied Software and Communications Engineering, Hongik University [23.3 ~ 24.12]
